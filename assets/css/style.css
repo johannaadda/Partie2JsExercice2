@@ -1,0 +1,17 @@
+
+.container{
+  height: 20vh;
+  background-color: lightblue;
+  color: white;
+  justify-content: center;
+  text-align: center;
+  border-bottom: 50rem;
+}
+.container P{
+  color: white;
+  font-family:fantasy;
+  word-spacing: 2px;
+  justify-content: center;
+  text-align: center;
+
+}
